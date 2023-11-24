@@ -21,10 +21,12 @@ Este repositorio está organizado en varias carpetas, cada una dedicada a un ár
 - Agrupa materiales relacionados con métodos estadísticos, análisis cuantitativo y técnicas de modelado estadístico aplicadas al análisis de datos.
 
 ## Carpeta "RETRO"
-- Momento de Retroalimentación: Alberga documentos y análisis retrospectivos, incluyendo el Reto de Privacidad y Seguridad de los Datos. Este material puede incluir estudios de caso, reflexiones y aprendizajes clave.
+- Momento de Retroalimentación: Alberga documentos y análisis retrospectivos, incluyendo el Reto de Privacidad y Seguridad de los Datos.
   - **Reto Privacidad y Seguridad de los Datos.pdf**: Documento específico que aborda los desafíos y soluciones en privacidad y seguridad de datos.
 
 ## Carpeta "FINAL"
-- Esta carpeta está destinada a contener los proyectos finales o trabajos de conclusión que representan la culminación de los estudios o análisis realizados. Aquí se pueden encontrar informes finales, presentaciones y síntesis de proyectos completos.
+- Esta carpeta está destinada a contener los proyectos finales o trabajos de conclusión que representan la culminación de los estudios o análisis realizados.
+-  **Reto Privacidad y Seguridad de los Datos.pdf**: Documento específico que aborda los desafíos y soluciones en privacidad y seguridad de datos, no se realizaron cambios ya que el entregable en el momento de retroalimentación ya estaba completo. 
+
 
 
