@@ -26,7 +26,7 @@ Este repositorio está organizado en varias carpetas, cada una dedicada a un ár
 
 ## Carpeta "FINAL"
 - Esta carpeta está destinada a contener los proyectos finales o trabajos de conclusión que representan la culminación de los estudios o análisis realizados.
--  **Reto Privacidad y Seguridad de los Datos.pdf**: Documento específico que aborda los desafíos y soluciones en privacidad y seguridad de datos, no se realizaron cambios ya que el entregable en el momento de retroalimentación ya estaba completo. 
+  -  **Reto Privacidad y Seguridad de los Datos.pdf**: Documento específico que aborda los desafíos y soluciones en privacidad y seguridad de datos, no se realizaron cambios ya que el entregable en el momento de retroalimentación ya estaba completo. 
 
 
 
