@@ -8,12 +8,4 @@ Esta carpeta se enfoca específicamente en el campo del Big Data, una de las ár
 
 - **Spark_En_AWS.pdf**: Este archivo ofrece una guía detallada sobre cómo implementar y utilizar Apache Spark en la plataforma de Amazon Web Services (AWS). Cubre desde la configuración inicial hasta las prácticas avanzadas para procesar y analizar grandes volúmenes de datos en la nube, aprovechando la escalabilidad y potencia de AWS.
 
-## Uso
-
-Los recursos de esta carpeta están destinados a estudiantes, profesionales y entusiastas del análisis de datos que buscan profundizar en el manejo de Big Data. Los documentos proporcionan información valiosa y técnicas aplicables en proyectos reales, ayudando a los usuarios a desarrollar habilidades prácticas y teóricas en este campo.
-
-## Contribuciones
-
-Se alienta a los usuarios a contribuir con sus propios proyectos, estudios y recursos relacionados con Big Data para enriquecer aún más este repositorio. Para contribuir, por favor siga las directrices establecidas en el archivo README.md de la carpeta raíz.
-
 
