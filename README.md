@@ -1,4 +1,4 @@
-# Estructura del Repositorio de Análisis
+# Estructura del Repositorio de Implementación
 
 Este repositorio está organizado en varias carpetas, cada una dedicada a un área específica del análisis de datos y la inteligencia artificial. A continuación, se proporciona una descripción general de la estructura y el contenido de cada carpeta.
 
