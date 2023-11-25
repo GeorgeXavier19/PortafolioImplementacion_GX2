@@ -1,4 +1,4 @@
-# Carpeta "Estadistica" del Repositorio de Análisis
+# Carpeta "Estadistica" del Repositorio de Implementacion
 
 Esta carpeta es un recurso clave para el estudio de métodos estadísticos avanzados y sus aplicaciones. Contiene una serie de documentos que cubren una variedad de temas en estadística.
 
