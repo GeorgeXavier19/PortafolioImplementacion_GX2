@@ -1,11 +1,11 @@
-# Estructura del Repositorio de Análisis
+# Carpeta "Procesamiento_Lenguaje" del Repositorio de Análisis
 
-## Carpeta Raíz
-- **README.md**: Descripción general del contenido y la estructura del repositorio.
+Esta carpeta se enfoca en el Procesamiento de Lenguaje Natural (NLP), una rama crucial de la inteligencia artificial y la lingüística computacional.
 
-## Carpeta "RETRO"
-- Momento de Retroalimentación: Reto Privacidad y Seguridad de los Datos (Portafolio Análisis): -pdf
+## Contenidos
+
+- **NLP_JorgeSosa_A01749489.pdf**: Un estudio exhaustivo sobre diversas técnicas y aplicaciones del NLP, proporcionando un análisis profundo y casos de estudio relevantes.
 
 
-## Carpeta "FINAL"
+
 
